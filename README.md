@@ -1,4 +1,6 @@
-### Hi! I am Liza 👋
+### Здравствуйте!Я Лиза! 👋
+### Добро пожаловать в мой профиль GitHub!
+
 
 <!--
 **MilayaLiza/MilayaLiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
