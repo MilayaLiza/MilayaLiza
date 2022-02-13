@@ -1,6 +1,6 @@
 ### Здравствуйте! Я Лиза! 👋
 ### Добро пожаловать в мой профиль GitHub!
-
+[<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 <!--
 **MilayaLiza/MilayaLiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
