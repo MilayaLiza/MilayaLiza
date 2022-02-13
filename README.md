@@ -1,6 +1,6 @@
 ### Здравствуйте! Я Лиза! 👋
 ### Добро пожаловать в мой профиль GitHub!
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/elizaveta-shiryavskova-74246622a/)
 
 <!--
 **MilayaLiza/MilayaLiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
